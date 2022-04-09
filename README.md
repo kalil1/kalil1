@@ -39,5 +39,6 @@ My name is Kalil Williams, I'm a full stack software developer from Miami, FL. Y
 
 ## &#x1f4c8; GitHub Stats (2022)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalil1&langs_count=15&hide=C,Shell,SCSS,CoffeeScript&layout=compact)](https://github.com/kalil1/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalil1&hide=issues,contribs&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalil1&langs_count=15&hide=C,Shell,SCSS,CoffeeScript&layout=compact)](https://github.com/kalil1/github-readme-stats)
+
