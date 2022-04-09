@@ -1,7 +1,3 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Kalil Williams, I'm a full stack software developer from Miami, FL. You can find me on [LinkedIn](https://www.linkedin.com/in/kalilwillams/).
-
 ## 🔧 Technologies & Tools
 
 **Previously worked with:**
