@@ -24,11 +24,6 @@ My name is Kalil Williams, I'm a full stack software developer from Miami, FL. Y
 ![](https://img.shields.io/badge/Previous-VS_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Previous-Jira-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 
-**Learning:**
-
-![](https://img.shields.io/badge/Learning-Kafka-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Learning-Kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-
 **Currently working with:**
 
 ![](https://img.shields.io/badge/Current-Ruby_on_Rails-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -36,6 +31,11 @@ My name is Kalil Williams, I'm a full stack software developer from Miami, FL. Y
 ![](https://img.shields.io/badge/Current-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Current-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Current-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+
+**Learning:**
+
+![](https://img.shields.io/badge/Learning-Kafka-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Learning-Kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 
 ## &#x1f4c8; GitHub Stats (2022)
 
