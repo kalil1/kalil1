@@ -28,11 +28,6 @@
 ![](https://img.shields.io/badge/Current-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Current-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 
-**Learning:**
-
-![](https://img.shields.io/badge/Learning-Kafka-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Learning-Kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-
 ## &#x1f4c8; GitHub Stats (2022)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalil1&hide=issues,contribs&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
