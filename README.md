@@ -20,16 +20,7 @@
 ![](https://img.shields.io/badge/Previous-VS_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Previous-Jira-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 
-**Currently working with:**
+## &#x1f4c8; Top Languages (2024)
 
-![](https://img.shields.io/badge/Current-Ruby_on_Rails-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Current-Typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Current-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Current-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Current-PostgreSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
-
-## &#x1f4c8; GitHub Stats (2023)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalil1&hide=issues,contribs&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalil1&langs_count=15&hide=C,Shell,SCSS,CoffeeScript&layout=compact)](https://github.com/kalil1/github-readme-stats)
 
