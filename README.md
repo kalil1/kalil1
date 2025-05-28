@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Previous-VS_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Previous-Jira-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 
-## &#x1f4c8; Top Languages (2024)
+## &#x1f4c8; Top Languages (2025)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalil1&langs_count=15&hide=C,Shell,SCSS,CoffeeScript&layout=compact)](https://github.com/kalil1/github-readme-stats)
 
