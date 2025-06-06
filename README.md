@@ -23,4 +23,3 @@
 ## &#x1f4c8; Top Languages (2025)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalil1&langs_count=15&hide=C,Shell,SCSS,CoffeeScript&layout=compact)](https://github.com/kalil1/github-readme-stats)
-
