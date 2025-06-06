@@ -1,6 +1,5 @@
 ## 🔧 Technologies & Tools
 **Previously worked with:**
-
 ![](https://img.shields.io/badge/Previous-Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Previous-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Previous-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) 
